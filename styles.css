@@ -1,27 +1,22 @@
+
 /*  your css code here. If applicable */
-html{
-width:100%;
-}
-main{
-	padding:20px;
-	background:#f5f5f5;
-}
-.work-2{
-	margin-bottom:10px;
-	
-}
-.test{
-	height:70px;
-	padding:7px;
-	background:white;
-	display:flex;
-	text-align:center;
-	font-size:15px;	
-	border:1px solid #f5f5f4;
-}
-.ital{
-	font-style:italic;
-	margin-top:40px;
-	margin-left:40px;
-	text-align:right;
-}
+.testimonial-section {
+    padding: 40px;
+    background-color: #f5f5f5;
+  }
+  
+  .testimonial {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    background-color: #fff;
+  }
+  .testimonial-text {
+    margin: 0;
+  }
+  
+  .testimonial-author {
+    margin: 0;
+    text-align: right;
+    font-style: italic;
+  }
